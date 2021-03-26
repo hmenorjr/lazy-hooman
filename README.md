@@ -1,4 +1,4 @@
-# lazy-hooman
+# lazyhooman
 A collection of shell scripts.
 
 ## Expectation
