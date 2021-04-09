@@ -1,2 +1,2 @@
 # lazy-human
-A collection of shell scripts to automate command line executions.
+A collection of automating stuff because... Hoomans.
