@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /bootsrap-angular
+permalink: /bootstrap-angular
 ---
 
 # Bootstrap Angular
