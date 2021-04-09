@@ -2,7 +2,6 @@
 layout: default
 permalink: /bootstrap-angular
 ---
-
 # Bootstrap Angular
 
 This shell script will help on bootstraping your MacOS with Angular.
