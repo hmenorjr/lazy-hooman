@@ -34,6 +34,7 @@ This shell script will help on bootstraping your MacOS with Angular.
 
 1. Create a file with `.sh` extension
 2. Copy paste the code below
+
 ```
 if [ "$(brew -v)" == "" ]
 then
@@ -47,4 +48,5 @@ then
     brew install node
 fi
 ```
+
 3. Execute the following comman: `source <filename>.sh`
