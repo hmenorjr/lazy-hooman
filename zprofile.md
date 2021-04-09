@@ -10,7 +10,7 @@ This is my CLI shortcuts.
 2. Create a zprofile by typing `vim .zprofile`
 3. Copy paste the code:
 4. Save by the file.
-5. 
+
 ```
 alias rmf='rm -f'
 alias rmrf='rm -r '
