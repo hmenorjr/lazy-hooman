@@ -10,7 +10,10 @@ This shell script will help on bootstraping your MacOS with Angular.
 ## Steps
 
 1. Create a file with `.sh` extension
-2. Copy paste the code below
+2. Copy paste the code below.
+3. Execute the following comman: `source <filename>.sh`
+
+## The Code
 
 ```
 if [ "$(brew -v)" == "" ]
@@ -25,4 +28,3 @@ then
     brew install node
 fi
 ```
-3. Execute the following comman: `source <filename>.sh`
