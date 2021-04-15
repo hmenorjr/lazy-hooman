@@ -15,3 +15,4 @@ You must have VIM knowledge.
 - [Bootstrap Angular in OSX](./bootstrap-angular)
 - [Bootstrap DEV Environment (Linux)](./bootstrap-linux)
 - [Bootstrap DEV Environment (OSX)](./bootstrap-osx)
+- [Dev CLI (OSX)](./zprofile)
