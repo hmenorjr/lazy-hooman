@@ -14,10 +14,15 @@ This is my CLI shortcuts.
 ```
 alias rmf='rm -f'
 alias rmrf='rm -r '
-#
+
+# Terragrunt / Terraform
 alias tgp='terragrunt plan'
 alias tga='terragrunt apply'
 alias tgs='terragrunt state'
+
+# Git
+alias gcob='git checkout origin'
+alias gpllo='git pull origin'
 
 # Github CLI (https://cli.github.com/manual/)
 alias ghli='gh auth login'
@@ -33,4 +38,4 @@ alias ghprv='gh pr view --web'
 alias ghrcl='gh repo clone'
 ```
 
-### When you type `alias` in the command line, these commans will show.
+**When you type `alias` in the command line, these commans will show.**
